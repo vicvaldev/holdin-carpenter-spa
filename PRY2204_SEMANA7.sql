@@ -1,3 +1,6 @@
+-- VERSIÓN UTILIZADA PARA LA CREACIÓN:
+--Oracle AI Database 26ai Free Release 23.26.2.0.0 - Develop, Learn, and Run for Free
+
 -- =========================================================
 -- ELIMINACION DE OBJETOS
 -- =========================================================
